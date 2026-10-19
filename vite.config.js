@@ -8,5 +8,5 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
-  base: './', // Dosya yollarının düzgün yüklenmesi için göreceli yol
+  base: './', // Göreceli dosya yolu ayarı
 })
